@@ -7,7 +7,7 @@ public class Binarysearch2d {
                 {23, 30, 34, 60}
         };
 
-        int[] ans = search(matrix, 16);
+        int[] ans = search(matrix, 20);
         System.out.println(ans[0] + " " + ans[1]);
     }
 
